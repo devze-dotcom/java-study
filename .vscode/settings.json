@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
+        ".idea/methods",
         ".idea/controlling_flow/switch",
         ".idea/Input_Output_Debugging_Datatypes",
-        ".idea/methods"
+        ".idea/arrays_arraysList"
     ]
 }
